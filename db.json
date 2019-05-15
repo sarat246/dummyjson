@@ -1,5 +1,4 @@
-[
-    {
+{
         "_id": "5cdbee98fe0daa9f0bc4ace6",
         "index": 0,
         "balance": "$3,167.69",
@@ -110,4 +109,3 @@
         "greeting": "Hello, Alissa Berger! You have 8 unread messages.",
         "favoriteFruit": "banana"
     }
-]
